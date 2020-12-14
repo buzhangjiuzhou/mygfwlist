@@ -53,11 +53,35 @@ def filtrate_rules(rules):
     return ret
 
 
+def getRulesStringFromFile(path, kind):
+    file = open(path, 'r', encoding='utf-8')
+    contents = file.readlines()
+    ret = ''
+
+    for content in contents:
+        content = content.strip('\r\n')
+        if not len(content):
+            continue
+
+        if content.startswith('#'):
+            ret += content + '\n'
+        else:
+            prefix = 'DOMAIN-SUFFIX'
+            if re.match(r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}', content):
+                prefix = 'IP-CIDR'
+                if '/' not in content:
+                    content += '/32'
+            elif '.' not in content:
+                prefix = 'DOMAIN-KEYWORD'
+
+            ret += prefix + ',%s,%s\n' % (content, kind)
+
+    return ret
+
 
 # main
 
 rule = open('./gfwlist_raw.txt', 'r', encoding='utf-8').read()
-print(rule)
 
 rules = clear_format(rule)
 
@@ -65,3 +89,21 @@ rules = filtrate_rules(rules)
 
 open('shadowRocket.list', 'w', encoding='utf-8') \
     .write('\n'.join(rules))
+
+str_head = open('template/sr_head.txt', 'r', encoding='utf-8').read()
+str_foot = open('template/sr_foot.txt', 'r', encoding='utf-8').read()
+file_template = open('template/banlist.txt', 'r', encoding='utf-8')
+
+template = file_template.read()
+
+template = str_head + template + str_foot
+
+marks = re.findall(r'{{(.+)}}', template)
+
+values = {}
+values['build_time'] = time.strftime("%Y-%m-%d %H:%M:%S")
+values['gfwlist'] = getRulesStringFromFile('./shadowRocket.list', 'Proxy')
+
+for mark in marks:
+    template = template.replace('{{'+mark+'}}', values[mark])
+open('shadowRocket.conf', 'w', encoding='utf-8').write(template)
