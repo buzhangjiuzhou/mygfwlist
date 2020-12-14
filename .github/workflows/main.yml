@@ -10,6 +10,6 @@ jobs:
       - name: 'checkout'
         uses: actions/checkout@v2
       - name: sr
-        run: ./auto_build_sr.sh
+        run: python shadowRocket.py
       - name: base64
-        run: ./autoBase64.sh
+        run: openssl base64 -in gfwlist_raw.txt | tr -d '\r' > gfwlist.txt
