@@ -63,3 +63,5 @@
 ||gstatic.com
 ||googleusercontent.com
 ||githubusercontent.com
+||jquery.com
+||geeksforgeeks.org
