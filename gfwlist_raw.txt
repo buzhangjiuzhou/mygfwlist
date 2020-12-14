@@ -65,3 +65,4 @@
 ||githubusercontent.com
 ||jquery.com
 ||geeksforgeeks.org
+||buzhangjiuzhou.com
