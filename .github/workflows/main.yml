@@ -4,9 +4,9 @@ on:
   [push, workflow_dispatch]
 
 jobs:
-  sr_ge:
+ base64:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: sr
-      - run: ./auto_build_sr.sh
+      - name: run
+      - run: ./autoBase64.sh
