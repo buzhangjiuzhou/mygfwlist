@@ -1,0 +1,22 @@
+name: gfwlist_auto
+ 
+on:
+  commit_comment:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  sr_ge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: sr
+      - run: ./auto_build_sr.sh
+
+  base64:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: run
+        run: ./autoBase64.sh
