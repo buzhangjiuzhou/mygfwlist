@@ -1,16 +1,9 @@
 import time
-import requests
 import re
 import base64
 
 
-rules_url = 'https://raw.githubusercontent.com/buzhangjiuzhou/mygfwlist/master/gfwlist.txt'
-
 unhandle_rules = []
-
-
-open('gfwlist_raw.txt', 'w', encoding='utf-8') \
-    .read()
 
 
 def clear_format(rule):
@@ -63,7 +56,8 @@ def filtrate_rules(rules):
 
 # main
 
-rule = get_rule(rules_url)
+rule = open('./gfwlist_raw.txt', 'r', encoding='utf-8').read()
+print(rule)
 
 rules = clear_format(rule)
 
