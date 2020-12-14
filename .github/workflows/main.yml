@@ -1,7 +1,9 @@
 name: gfwlist_auto
  
 on:
-  [push, workflow_dispatch]
+ push:
+   paths:
+     - gfwlist_raw.txt
 
 jobs:
   sr_ge:
