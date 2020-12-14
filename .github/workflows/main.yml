@@ -1,7 +1,7 @@
 name: gfwlist_auto
  
 on:
-  [commit_comment, push, pull_request, workflow_dispatch]
+  [push, workflow_dispatch]
 
 jobs:
   sr_ge:
