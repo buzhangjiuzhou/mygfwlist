@@ -16,4 +16,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: run
-        run: ./autoBase64.sh
+      - run: ./autoBase64.sh
