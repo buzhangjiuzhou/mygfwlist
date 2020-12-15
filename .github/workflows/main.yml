@@ -22,7 +22,7 @@ jobs:
          git add .
          git config --local user.email "972161836@qq.com"
          git config --local user.name "buzhangjiuzhou"
-         git commit -a -m "update"
+         git commit -a -m "auto update"
          git remote set-url origin "$(git config --get remote.origin.url | sed 's#http.*com/#git@github.com:#g')"
          eval `ssh-agent -t 60 -s`
          echo "$GHA_DEPLOY_KEY" | ssh-add -
