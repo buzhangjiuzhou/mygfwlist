@@ -5,54 +5,54 @@ import re
 import base64
 
 
-unhandle_rules = []
+# unhandle_rules = []
 
 
-def clear_format(rule):
-    rules = []
+# def clear_format(rule):
+#     rules = []
 
-    rule = rule.split('\n')
-    for row in rule:
-        row = row.strip()
+#     rule = rule.split('\n')
+#     for row in rule:
+#         row = row.strip()
 
-        # 注释 直接跳过
-        if row == '' or row.startswith('!') or row.startswith('@@') or row.startswith('[AutoProxy'):
-            continue
+#         # 注释 直接跳过
+#         if row == '' or row.startswith('!') or row.startswith('@@') or row.startswith('[AutoProxy'):
+#             continue
 
-        # 清除前缀
-        row = re.sub(r'^\|?https?://', '', row)
-        row = re.sub(r'^\|\|', '', row)
-        row = row.lstrip('.*')
+#         # 清除前缀
+#         row = re.sub(r'^\|?https?://', '', row)
+#         row = re.sub(r'^\|\|', '', row)
+#         row = row.lstrip('.*')
 
-        # 清除后缀
-        row = row.rstrip('/^*')
+#         # 清除后缀
+#         row = row.rstrip('/^*')
 
-        rules.append(row)
+#         rules.append(row)
 
-    return rules
+#     return rules
 
 
-def filtrate_rules(rules):
-    ret = []
+# def filtrate_rules(rules):
+#     ret = []
 
-    for rule in rules:
-        rule0 = rule
+#     for rule in rules:
+#         rule0 = rule
 
-        # only hostname
-        if '/' in rule:
-            split_ret = rule.split('/')
-            rule = split_ret[0]
+#         # only hostname
+#         if '/' in rule:
+#             split_ret = rule.split('/')
+#             rule = split_ret[0]
 
-        if not re.match('^[\w.-]+$', rule):
-            unhandle_rules.append(rule0)
-            continue
+#         if not re.match('^[\w.-]+$', rule):
+#             unhandle_rules.append(rule0)
+#             continue
 
-        ret.append(rule)
+#         ret.append(rule)
 
-    ret = list( set(ret) )
-    ret.sort()
+#     ret = list( set(ret) )
+#     ret.sort()
 
-    return ret
+#     return ret
 
 
 def getRulesStringFromFile(path, kind):
@@ -80,17 +80,37 @@ def getRulesStringFromFile(path, kind):
 
     return ret
 
+def getRulesStringFromFile_ap(path):
+    file = open(path, 'r', encoding='utf-8')
+    contents = file.readlines()
+    ret = ''
+
+    for content in contents:
+        content = content.strip('\r\n')
+        if not len(content):
+            continue
+
+        if content.startswith('#'):
+            ret += content + '\n'
+        else:
+            prefix = '||'
+
+            ret += prefix + '%s\n' % content
+
+    return ret
+
 
 # main
+# -------------------auto proxy------------------------------
+ap_head = open('template/ap_head.txt', 'r', encoding='utf-8').read()
+ap_template = open('template/ap_template.txt', 'r', encoding='utf-8')
 
-rule = open('./gfwlist_raw.txt', 'r', encoding='utf-8').read()
+ap_template = ap_template.read()
 
-rules = clear_format(rule)
+ap_template = ap_head + ap_template
 
-rules = filtrate_rules(rules)
 
-open('shadowRocket.list', 'w', encoding='utf-8') \
-    .write('\n'.join(rules))
+# ----------shadowRocket--------------------------
 
 str_head = open('template/sr_head.txt', 'r', encoding='utf-8').read()
 str_foot = open('template/sr_foot.txt', 'r', encoding='utf-8').read()
@@ -100,12 +120,19 @@ template = file_template.read()
 
 template = str_head + template + str_foot
 
+# ----------------------------------------------------------
+
 marks = re.findall(r'{{(.+)}}', template)
+ap_mark = 'aplist'
+ap_value = getRulesStringFromFile_ap('./gfwlist_raw.txt')
 
 values = {}
 values['build_time'] = time.strftime("%Y-%m-%d %H:%M:%S")
-values['gfwlist'] = getRulesStringFromFile('./shadowRocket.list', 'Proxy')
+values['gfwlist'] = getRulesStringFromFile('./gfwlist_raw.txt', 'Proxy')
 
 for mark in marks:
     template = template.replace('{{'+mark+'}}', values[mark])
+ap_template = ap_template.replace('{{'+ap_mark+'}}', ap_value)
+
 open('shadowRocket.conf', 'w', encoding='utf-8').write(template)
+open('gfwlist.txt', 'w', encoding='utf-8').write(ap_template)
