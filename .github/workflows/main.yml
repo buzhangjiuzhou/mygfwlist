@@ -14,7 +14,7 @@ jobs:
       - name: sr
         run: python3 shadowRocket.py
       - name: base64
-        run: openssl base64 -in gfwlist_raw.txt | tr -d '\r' > gfwlist.txt
+        run: openssl base64 -in gfwlist_ap.txt | tr -d '\r' > gfwlist.txt
       - name: git
         env:
           GHA_DEPLOY_KEY: ${{ secrets.GHA_DEPLOY_KEY }}
