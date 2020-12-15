@@ -1,6 +1,7 @@
 name: gfwlist_auto
  
 on:
+ workflow_dispatch:
  push:
    paths:
      - gfwlist_raw.txt
