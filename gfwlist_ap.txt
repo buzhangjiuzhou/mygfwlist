@@ -93,3 +93,5 @@
 ||rsshub.app 
 ||tumblr.com 
 ||blogspot.com
+||blogblog.com
+||blogger.com
