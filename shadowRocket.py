@@ -135,4 +135,4 @@ for mark in marks:
 ap_template = ap_template.replace('{{'+ap_mark+'}}', ap_value)
 
 open('shadowRocket.conf', 'w', encoding='utf-8').write(template)
-open('gfwlist.txt', 'w', encoding='utf-8').write(ap_template)
+open('gfwlist_ap.txt', 'w', encoding='utf-8').write(ap_template)
