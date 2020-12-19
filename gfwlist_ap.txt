@@ -95,3 +95,4 @@
 ||blogspot.com
 ||blogblog.com
 ||blogger.com
+||akamaihd.net
