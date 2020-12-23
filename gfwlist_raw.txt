@@ -90,3 +90,6 @@ blogspot.com
 blogblog.com
 blogger.com
 akamaihd.net
+steampowered.com
+openlibrary.org
+gamelisp.rs
