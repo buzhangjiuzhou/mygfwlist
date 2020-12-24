@@ -93,3 +93,10 @@ akamaihd.net
 steampowered.com
 openlibrary.org
 gamelisp.rs
+mega.co.nz
+mega.nz
+thwiki.cc
+smartgslb.com
+chun.moe
+musicbrainz.org
+paradoxplaza.com
