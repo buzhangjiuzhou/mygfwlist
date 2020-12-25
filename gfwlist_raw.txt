@@ -10,7 +10,6 @@ blogspot.com
 boilingsteam.com
 buzhangjiuzhou.com
 bzjz.tk
-chinaplay.store
 chrome.com
 chun.moe
 cmx.im
@@ -103,3 +102,7 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
+frantech.ca
+amazon.co.jp
+dropbox.com
+
