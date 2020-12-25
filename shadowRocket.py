@@ -72,6 +72,8 @@ def getRulesStringFromFile(path, kind, ret):
         content = content.strip('\r\n')
         if not len(content):
             continue
+        if content.startswith('!'):
+            continue
 
         if content.startswith('#'):
             ret += content + '\n'
