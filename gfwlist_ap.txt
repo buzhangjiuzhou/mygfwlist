@@ -107,3 +107,5 @@
 ||musicbrainz.org
 ||paradoxplaza.com
 ||chinaplay.store
+||pixiv.net
+||google.com.hk

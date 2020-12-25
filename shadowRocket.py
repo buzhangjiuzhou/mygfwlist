@@ -53,12 +53,20 @@ import base64
 #     ret.sort()
 
 #     return ret
+def sort_list(path):
+    ret = []
+    rules = open(path, 'r', encoding='utf-8').readlines()
+    for rule in rules:
+        ret.append(rule)
+    ret = list( set(ret) )
+    ret.sort()
+    open(path+'back', 'w', encoding='utf-8').write(str(ret))
+    
 
-
-def getRulesStringFromFile(path, kind):
+def getRulesStringFromFile(path, kind, ret):
     file = open(path, 'r', encoding='utf-8')
     contents = file.readlines()
-    ret = ''
+    # ret = ''
 
     for content in contents:
         content = content.strip('\r\n')
@@ -80,14 +88,21 @@ def getRulesStringFromFile(path, kind):
 
     return ret
 
-def getRulesStringFromFile_ap(path):
+def getRulesStringFromFile_ap(path, ip_flag, ret):
     file = open(path, 'r', encoding='utf-8')
     contents = file.readlines()
-    ret = ''
+    # ret = ''
 
     for content in contents:
         content = content.strip('\r\n')
         if not len(content):
+            continue
+        
+        if ip_flag is True:
+            if content.startswith('!'):
+                continue
+            else:
+                ret += content + '\n'
             continue
 
         if content.startswith('#'):
@@ -124,11 +139,15 @@ template = str_head + template + str_foot
 
 marks = re.findall(r'{{(.+)}}', template)
 ap_mark = 'aplist'
-ap_value = getRulesStringFromFile_ap('./gfwlist_raw.txt')
+ap_value = ''
+ap_value = getRulesStringFromFile_ap('./gfwlist_raw.txt', ip_flag=False, ret=ap_value)
+ap_value = getRulesStringFromFile_ap('./gfwlist_ip.txt', ip_flag=True, ret=ap_value)
 
 values = {}
 values['build_time'] = time.strftime("%Y-%m-%d %H:%M:%S")
-values['gfwlist'] = getRulesStringFromFile('./gfwlist_raw.txt', 'Proxy')
+values['gfwlist'] = ''
+values['gfwlist'] = getRulesStringFromFile('./gfwlist_raw.txt', 'Proxy', values['gfwlist'])
+values['gfwlist'] = getRulesStringFromFile('./gfwlist_ip.txt', 'Proxy', values['gfwlist'])
 
 for mark in marks:
     template = template.replace('{{'+mark+'}}', values[mark])
@@ -136,3 +155,5 @@ ap_template = ap_template.replace('{{'+ap_mark+'}}', ap_value)
 
 open('shadowRocket.conf', 'w', encoding='utf-8').write(template)
 open('gfwlist_ap.txt', 'w', encoding='utf-8').write(ap_template)
+# sort_list('gfwlist_ip.txt')
+sort_list('gfwlist_raw.txt')

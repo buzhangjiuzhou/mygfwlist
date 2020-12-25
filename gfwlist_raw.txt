@@ -101,3 +101,5 @@ chun.moe
 musicbrainz.org
 paradoxplaza.com
 chinaplay.store
+google.com.hk
+pixiv.net

@@ -5,6 +5,7 @@ on:
  push:
    paths:
      - gfwlist_raw.txt
+     - gfwlist_ip.txt
 
 jobs:
   sr_ge:
