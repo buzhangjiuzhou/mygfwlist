@@ -6,6 +6,7 @@
 !--often used by me-----
 ||acg.mn
 ||akamaihd.net
+||amazon.co.jp
 ||amazon.com
 ||amazonaws.com
 ||archive.org
@@ -23,8 +24,10 @@
 ||discourse-cdn.com
 ||dns.google
 ||doubleclick.net
+||dropbox.com
 ||facebook.com
 ||fontawesome.com
+||frantech.ca
 ||fuchsia.dev
 ||gamelisp.rs
 ||geeksforgeeks.org
@@ -108,9 +111,6 @@
 ||youtube.com
 ||ytimg.com
 ||yukieyun.net
-||frantech.ca
-||amazon.co.jp
-||dropbox.com
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
