@@ -64,7 +64,8 @@ nvidia.com
 openlibrary.org
 paradoxplaza.com
 pawoo.net
-pixiv.netpytorch.org
+pixiv.net
+pytorch.org
 reddit.com
 redditmedia.com
 redditstatic.com
