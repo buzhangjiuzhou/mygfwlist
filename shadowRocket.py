@@ -79,14 +79,15 @@ def getRulesStringFromFile(path, kind, ret):
             ret += content + '\n'
         else:
             prefix = 'DOMAIN-SUFFIX'
+            temp_kind = kind
             if re.match(r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}', content):
                 prefix = 'IP-CIDR'
+                temp_kind = kind + ',no-resolve'
                 if '/' not in content:
                     content += '/32'
             elif '.' not in content:
                 prefix = 'DOMAIN-KEYWORD'
-
-            ret += prefix + ',%s,%s\n' % (content, kind)
+            ret += prefix + ',%s,%s\n' % (content, temp_kind)
 
     return ret
 
