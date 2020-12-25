@@ -1,5 +1,7 @@
+
 acg.mn
 akamaihd.net
+amazon.co.jp
 amazon.com
 amazonaws.com
 archive.org
@@ -17,8 +19,10 @@ daizhige.org
 discourse-cdn.com
 dns.google
 doubleclick.net
+dropbox.com
 facebook.com
 fontawesome.com
+frantech.ca
 fuchsia.dev
 gamelisp.rs
 geeksforgeeks.org
@@ -102,7 +106,3 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
-frantech.ca
-amazon.co.jp
-dropbox.com
-
