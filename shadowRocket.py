@@ -60,7 +60,7 @@ def sort_list(path):
         ret.append(rule)
     ret = list( set(ret) )
     ret.sort()
-    open(path+'back', 'w', encoding='utf-8').write(str(ret))
+    open(path, 'w', encoding='utf-8').write(''.join(ret))
     
 
 def getRulesStringFromFile(path, kind, ret):
