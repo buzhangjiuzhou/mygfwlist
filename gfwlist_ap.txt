@@ -31,6 +31,7 @@
 ||fuchsia.dev
 ||gamelisp.rs
 ||geeksforgeeks.org
+||geph.io
 ||ggpht.com
 ||github.blog 
 ||github.com
@@ -52,6 +53,7 @@
 ||imgur.com
 ||instagram.com
 ||iyouport.org
+||ipfs.io
 ||joinmastodon.org
 ||jquery.com
 ||jsdelivr.net
@@ -70,6 +72,7 @@
 ||nebula.moe
 ||nvidia.com
 ||openlibrary.org
+||openvpn.net
 ||paradoxplaza.com
 ||pawoo.net
 ||pixiv.net
@@ -85,6 +88,9 @@
 ||steamcommunity.com
 ||steampowered.com
 ||steemit.com
+||sixu.life
+||qualaroo.com
+||pixiv-recommend.net
 ||t.co
 ||t.me
 ||teddysun.com 
