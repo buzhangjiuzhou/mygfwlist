@@ -26,6 +26,7 @@ frantech.ca
 fuchsia.dev
 gamelisp.rs
 geeksforgeeks.org
+geph.io
 ggpht.com
 github.blog 
 github.com
@@ -47,6 +48,7 @@ hrw.org
 imgur.com
 instagram.com
 iyouport.org
+ipfs.io
 joinmastodon.org
 jquery.com
 jsdelivr.net
@@ -65,6 +67,7 @@ musicbrainz.org
 nebula.moe
 nvidia.com
 openlibrary.org
+openvpn.net
 paradoxplaza.com
 pawoo.net
 pixiv.net
@@ -80,6 +83,9 @@ sprov.xyz
 steamcommunity.com
 steampowered.com
 steemit.com
+sixu.life
+qualaroo.com
+pixiv-recommend.net
 t.co
 t.me
 teddysun.com 
