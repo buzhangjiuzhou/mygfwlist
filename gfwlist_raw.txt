@@ -112,3 +112,7 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
+nyaa.si
+bt4g.org
+archiveofourown.org
+nicovideo.jp
