@@ -10,11 +10,13 @@
 ||amazon.com
 ||amazonaws.com
 ||archive.org
+||archiveofourown.org
 ||bangdream.space
 ||blogblog.com
 ||blogger.com
 ||blogspot.com
 ||boilingsteam.com
+||bt4g.org
 ||buzhangjiuzhou.com
 ||bzjz.tk
 ||chrome.com
@@ -70,7 +72,9 @@
 ||mega.nz
 ||musicbrainz.org
 ||nebula.moe
+||nicovideo.jp
 ||nvidia.com
+||nyaa.si
 ||openlibrary.org
 ||openvpn.net
 ||paradoxplaza.com
@@ -117,10 +121,6 @@
 ||youtube.com
 ||ytimg.com
 ||yukieyun.net
-||nyaa.si
-||bt4g.org
-||archiveofourown.org
-||nicovideo.jp
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
