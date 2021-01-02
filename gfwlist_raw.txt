@@ -5,11 +5,13 @@ amazon.co.jp
 amazon.com
 amazonaws.com
 archive.org
+archiveofourown.org
 bangdream.space
 blogblog.com
 blogger.com
 blogspot.com
 boilingsteam.com
+bt4g.org
 buzhangjiuzhou.com
 bzjz.tk
 chrome.com
@@ -65,7 +67,9 @@ mega.co.nz
 mega.nz
 musicbrainz.org
 nebula.moe
+nicovideo.jp
 nvidia.com
+nyaa.si
 openlibrary.org
 openvpn.net
 paradoxplaza.com
@@ -112,7 +116,3 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
-nyaa.si
-bt4g.org
-archiveofourown.org
-nicovideo.jp
