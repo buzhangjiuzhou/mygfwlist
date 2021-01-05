@@ -116,3 +116,11 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
+discord.gg
+discordapp.net
+discordapp.com
+discord.com
+cloudflare.com
+facebook.net
+stackoverflow.com
+sstatic.net
