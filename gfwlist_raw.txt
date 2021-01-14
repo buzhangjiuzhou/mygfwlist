@@ -1,3 +1,4 @@
+
 acg.mn
 akamaihd.net
 amazon.co.jp
@@ -6,6 +7,7 @@ amazonaws.com
 archive.org
 archiveofourown.org
 bangdream.space
+bannedbook.org
 blogblog.com
 blogger.com
 blogspot.com
@@ -26,6 +28,7 @@ discourse-cdn.com
 dns.google
 doubleclick.net
 dropbox.com
+dw.com
 facebook.com
 facebook.net
 fontawesome.com
@@ -60,6 +63,7 @@ joinmastodon.org
 jquery.com
 jsdelivr.net
 jtvnw.net
+justmysocks.com
 lala.im
 lexity.com 
 listenbrainz.org
@@ -82,6 +86,7 @@ pawoo.net
 pincong.rocks
 pixiv-recommend.net
 pixiv.net
+pornhub.com
 pytorch.org
 qualaroo.com
 reddit.com
@@ -126,8 +131,3 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
-dw.com
-pornhub.com
-bannedbook.org
-justmysocks.com
-
