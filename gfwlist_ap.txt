@@ -12,6 +12,7 @@
 ||archive.org
 ||archiveofourown.org
 ||bangdream.space
+||bannedbook.org
 ||blogblog.com
 ||blogger.com
 ||blogspot.com
@@ -32,6 +33,7 @@
 ||dns.google
 ||doubleclick.net
 ||dropbox.com
+||dw.com
 ||facebook.com
 ||facebook.net
 ||fontawesome.com
@@ -66,6 +68,7 @@
 ||jquery.com
 ||jsdelivr.net
 ||jtvnw.net
+||justmysocks.com
 ||lala.im
 ||lexity.com 
 ||listenbrainz.org
@@ -88,6 +91,7 @@
 ||pincong.rocks
 ||pixiv-recommend.net
 ||pixiv.net
+||pornhub.com
 ||pytorch.org
 ||qualaroo.com
 ||reddit.com
@@ -132,10 +136,6 @@
 ||youtube.com
 ||ytimg.com
 ||yukieyun.net
-||dw.com
-||pornhub.com
-||bannedbook.org
-||justmysocks.com
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
