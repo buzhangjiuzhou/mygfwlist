@@ -135,3 +135,4 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
+pximg.net
