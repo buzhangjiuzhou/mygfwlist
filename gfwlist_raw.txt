@@ -124,6 +124,7 @@ twitch.tv
 twitchcdn.net
 twitter.com
 v2ex.com 
+v2fly.org
 v2raytech.com
 vimeo.com
 w3schools.com
@@ -136,4 +137,3 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
-v2fly.org
