@@ -133,3 +133,4 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
+brave.com
