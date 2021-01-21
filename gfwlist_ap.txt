@@ -5,6 +5,7 @@
 
 !--often used by me-----
 ||acg.mn
+||acgjc.com
 ||akamaihd.net
 ||amazon.co.jp
 ||amazon.com
@@ -17,6 +18,7 @@
 ||blogger.com
 ||blogspot.com
 ||boilingsteam.com
+||botanwang.com
 ||bt4g.org
 ||buzhangjiuzhou.com
 ||bzjz.tk
@@ -136,8 +138,6 @@
 ||youtube.com
 ||ytimg.com
 ||yukieyun.net
-||acgjc.com
-||botanwang.com
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
