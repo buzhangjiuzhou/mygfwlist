@@ -1,5 +1,6 @@
 
 acg.mn
+acgjc.com
 akamaihd.net
 amazon.co.jp
 amazon.com
@@ -12,6 +13,7 @@ blogblog.com
 blogger.com
 blogspot.com
 boilingsteam.com
+botanwang.com
 bt4g.org
 buzhangjiuzhou.com
 bzjz.tk
@@ -131,5 +133,3 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
-acgjc.com
-botanwang.com
