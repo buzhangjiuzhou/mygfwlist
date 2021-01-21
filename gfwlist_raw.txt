@@ -91,6 +91,7 @@ pincong.rocks
 pixiv-recommend.net
 pixiv.net
 pornhub.com
+pximg.net
 pytorch.org
 qualaroo.com
 reddit.com
@@ -135,4 +136,3 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
-pximg.net
