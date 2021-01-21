@@ -113,6 +113,7 @@ steemit.com
 t.co
 t.me
 teddysun.com 
+telegra.ph
 telegram.org
 telesco.pe
 tensorflow.org
@@ -137,4 +138,3 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
-telegra.ph
