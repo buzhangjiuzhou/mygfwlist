@@ -138,3 +138,5 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
+quoracdn.net
+wikihow.com
