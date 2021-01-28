@@ -99,6 +99,7 @@
 ||pximg.net
 ||pytorch.org
 ||qualaroo.com
+||quoracdn.net
 ||reddit.com
 ||redditmedia.com
 ||redditstatic.com
@@ -134,6 +135,7 @@
 ||v2raytech.com
 ||vimeo.com
 ||w3schools.com
+||wikihow.com
 ||wikimedia.org 
 ||wikipedia.org
 ||wikisource.org 
@@ -143,8 +145,6 @@
 ||youtube.com
 ||ytimg.com
 ||yukieyun.net
-||quoracdn.net
-||wikihow.com
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
