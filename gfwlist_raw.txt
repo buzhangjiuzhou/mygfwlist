@@ -94,6 +94,7 @@ pornhub.com
 pximg.net
 pytorch.org
 qualaroo.com
+quoracdn.net
 reddit.com
 redditmedia.com
 redditstatic.com
@@ -129,6 +130,7 @@ v2fly.org
 v2raytech.com
 vimeo.com
 w3schools.com
+wikihow.com
 wikimedia.org 
 wikipedia.org
 wikisource.org 
@@ -138,5 +140,3 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
-quoracdn.net
-wikihow.com
