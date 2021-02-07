@@ -145,3 +145,6 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
+alive.bar
+chinadigitaltimes.net
+github.io
