@@ -140,3 +140,8 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
+yande.re
+shadowsocks.org
+marxists.org
+disqus.com
+startpage.com
