@@ -145,5 +145,6 @@ ycombinator.com
 yimg.com 
 youtu.be
 youtube.com
-ytimg.com
+
 yukieyun.net
+ytimg.com
