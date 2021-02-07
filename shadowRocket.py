@@ -56,9 +56,10 @@ import base64
 def sort_list(path):
     ret = []
     rules = open(path, 'r', encoding='utf-8').readlines()
-    for rule in rules:
-        ret.append(rule)
-    ret = list( set(ret) )
+    # for rule in rules:
+    #    ret.append(rule)
+    # ret = list( set(ret) )
+    ret = [rule for rule in rules if rule]
     ret.sort()
     open(path, 'w', encoding='utf-8').write(''.join(ret))
     
