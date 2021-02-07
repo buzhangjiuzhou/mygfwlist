@@ -3,6 +3,7 @@ acg.is
 acg.mn
 acgjc.com
 akamaihd.net
+alive.bar
 amazon.co.jp
 amazon.com
 amazonaws.com
@@ -19,6 +20,7 @@ brave.com
 bt4g.org
 buzhangjiuzhou.com
 bzjz.tk
+chinadigitaltimes.net
 chrome.com
 chun.moe
 cloudflare.com
@@ -45,6 +47,7 @@ geph.io
 ggpht.com
 github.blog 
 github.com
+github.io
 githubusercontent.com
 gmail.com
 google-analytics.com
@@ -145,6 +148,3 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
-alive.bar
-chinadigitaltimes.net
-github.io
