@@ -29,6 +29,7 @@ discord.gg
 discordapp.com
 discordapp.net
 discourse-cdn.com
+disqus.com
 dns.google
 doubleclick.net
 dropbox.com
@@ -71,6 +72,7 @@ justmysocks.com
 lala.im
 lexity.com 
 listenbrainz.org
+marxists.org
 mastodon.online
 mastodon.social
 mastodonrocks.com
@@ -101,6 +103,7 @@ redditstatic.com
 rsshub.app 
 s3.amazonaws.com 
 sexinsex.net
+shadowsocks.org
 shuku.net 
 sis001.com
 sixu.life
@@ -108,6 +111,7 @@ smartgslb.com
 sprov.xyz
 sstatic.net
 stackoverflow.com
+startpage.com
 steamcommunity.com
 steampowered.com
 steemit.com
@@ -134,14 +138,10 @@ wikihow.com
 wikimedia.org 
 wikipedia.org
 wikisource.org 
+yande.re
 ycombinator.com
 yimg.com 
 youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
-yande.re
-shadowsocks.org
-marxists.org
-disqus.com
-startpage.com
