@@ -72,6 +72,7 @@ jquery.com
 jsdelivr.net
 jtvnw.net
 justmysocks.com
+justmysocks.net
 lala.im
 lexity.com 
 listenbrainz.org
@@ -83,6 +84,7 @@ matters.news
 medium.com
 mega.co.nz
 mega.nz
+mstdn.io
 musicbrainz.org
 nebula.moe
 nicovideo.jp
@@ -100,8 +102,10 @@ pximg.net
 pytorch.org
 qualaroo.com
 quoracdn.net
+redd.it
 reddit.com
 redditmedia.com
+redditstatic.com
 redditstatic.com
 rsshub.app 
 s3.amazonaws.com 
@@ -137,6 +141,7 @@ v2fly.org
 v2raytech.com
 vimeo.com
 w3schools.com
+wikidata.org
 wikihow.com
 wikimedia.org 
 wikipedia.org
@@ -148,8 +153,3 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
-justmysocks.net
-wikidata.org
-mstdn.io
-redditstatic.com
-redd.it
