@@ -77,6 +77,7 @@
 ||jsdelivr.net
 ||jtvnw.net
 ||justmysocks.com
+||justmysocks.net
 ||lala.im
 ||lexity.com 
 ||listenbrainz.org
@@ -88,6 +89,7 @@
 ||medium.com
 ||mega.co.nz
 ||mega.nz
+||mstdn.io
 ||musicbrainz.org
 ||nebula.moe
 ||nicovideo.jp
@@ -105,8 +107,10 @@
 ||pytorch.org
 ||qualaroo.com
 ||quoracdn.net
+||redd.it
 ||reddit.com
 ||redditmedia.com
+||redditstatic.com
 ||redditstatic.com
 ||rsshub.app 
 ||s3.amazonaws.com 
@@ -142,6 +146,7 @@
 ||v2raytech.com
 ||vimeo.com
 ||w3schools.com
+||wikidata.org
 ||wikihow.com
 ||wikimedia.org 
 ||wikipedia.org
@@ -153,11 +158,6 @@
 ||youtube.com
 ||ytimg.com
 ||yukieyun.net
-||justmysocks.net
-||wikidata.org
-||mstdn.io
-||redditstatic.com
-||redd.it
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
