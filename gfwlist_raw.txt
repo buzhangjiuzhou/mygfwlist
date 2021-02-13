@@ -148,3 +148,8 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
+justmysocks.net
+wikidata.org
+mstdn.io
+redditstatic.com
+redd.it
