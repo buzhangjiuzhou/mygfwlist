@@ -63,6 +63,8 @@
 ||googletagservices.com
 ||googleusercontent.com
 ||googlevideo.com
+||gravatar.com
+||greatfire.org
 ||gstatic.com
 ||hey.science
 ||hrw.org
@@ -111,6 +113,7 @@
 ||redditmedia.com
 ||redditstatic.com
 ||redditstatic.com
+||rfa.org
 ||rsshub.app 
 ||s3.amazonaws.com 
 ||sexinsex.net
@@ -135,6 +138,7 @@
 ||tensorflow.org
 ||thwiki.cc
 ||todoist.help 
+||treecard.org
 ||tumblr.com 
 ||twimg.com
 ||twitch.tv
@@ -158,10 +162,6 @@
 ||ytimg.com
 ||yukieyun.net
 ||z-lib.org
-||rfa.org
-||greatfire.org
-||treecard.org
-||gravatar.com
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
