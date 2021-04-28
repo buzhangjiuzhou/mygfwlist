@@ -152,3 +152,8 @@ youtu.be
 youtube.com
 ytimg.com
 yukieyun.net
+z-lib.org
+rfa.org
+greatfire.org
+treecard.org
+gravatar.com
