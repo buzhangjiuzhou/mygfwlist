@@ -58,6 +58,8 @@ googletagmanager.com
 googletagservices.com
 googleusercontent.com
 googlevideo.com
+gravatar.com
+greatfire.org
 gstatic.com
 hey.science
 hrw.org
@@ -106,6 +108,7 @@ reddit.com
 redditmedia.com
 redditstatic.com
 redditstatic.com
+rfa.org
 rsshub.app 
 s3.amazonaws.com 
 sexinsex.net
@@ -130,6 +133,7 @@ telesco.pe
 tensorflow.org
 thwiki.cc
 todoist.help 
+treecard.org
 tumblr.com 
 twimg.com
 twitch.tv
@@ -153,7 +157,3 @@ youtube.com
 ytimg.com
 yukieyun.net
 z-lib.org
-rfa.org
-greatfire.org
-treecard.org
-gravatar.com
