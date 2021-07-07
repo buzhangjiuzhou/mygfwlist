@@ -37,6 +37,7 @@ dropbox.com
 dw.com
 facebook.com
 facebook.net
+flickr.com
 fontawesome.com
 frantech.ca
 fuchsia.dev
@@ -79,6 +80,7 @@ lala.im
 lexity.com 
 listenbrainz.org
 marxists.org
+mastodon.cloud
 mastodon.online
 mastodon.social
 mastodonrocks.com
@@ -92,6 +94,8 @@ nebula.moe
 nicovideo.jp
 nvidia.com
 nyaa.si
+nyt.com
+nytimes.com
 openlibrary.org
 openvpn.net
 paradoxplaza.com
@@ -104,6 +108,7 @@ pximg.net
 pypi.org
 pytorch.org
 qualaroo.com
+quora.com
 quoracdn.net
 ravenjs.com
 redd.it
@@ -122,6 +127,7 @@ sixu.life
 smartgslb.com
 sprov.xyz
 sstatic.net
+stackexchange.com
 stackoverflow.com
 startpage.com
 steamcommunity.com
@@ -160,9 +166,3 @@ youtube.com
 ytimg.com
 yukieyun.net
 z-lib.org
-stackexchange.com
-mastodon.cloud
-quora.com
-nytimes.com
-nyt.com
-flickr.com

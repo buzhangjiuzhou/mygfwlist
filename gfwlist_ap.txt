@@ -164,6 +164,12 @@
 ||ytimg.com
 ||yukieyun.net
 ||z-lib.org
+||stackexchange.com
+||mastodon.cloud
+||quora.com
+||nytimes.com
+||nyt.com
+||flickr.com
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
