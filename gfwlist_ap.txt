@@ -41,6 +41,7 @@
 ||dw.com
 ||facebook.com
 ||facebook.net
+||flickr.com
 ||fontawesome.com
 ||frantech.ca
 ||fuchsia.dev
@@ -83,6 +84,7 @@
 ||lexity.com 
 ||listenbrainz.org
 ||marxists.org
+||mastodon.cloud
 ||mastodon.online
 ||mastodon.social
 ||mastodonrocks.com
@@ -96,6 +98,8 @@
 ||nicovideo.jp
 ||nvidia.com
 ||nyaa.si
+||nyt.com
+||nytimes.com
 ||openlibrary.org
 ||openvpn.net
 ||paradoxplaza.com
@@ -108,6 +112,7 @@
 ||pypi.org
 ||pytorch.org
 ||qualaroo.com
+||quora.com
 ||quoracdn.net
 ||ravenjs.com
 ||redd.it
@@ -126,6 +131,7 @@
 ||smartgslb.com
 ||sprov.xyz
 ||sstatic.net
+||stackexchange.com
 ||stackoverflow.com
 ||startpage.com
 ||steamcommunity.com
@@ -164,12 +170,6 @@
 ||ytimg.com
 ||yukieyun.net
 ||z-lib.org
-||stackexchange.com
-||mastodon.cloud
-||quora.com
-||nytimes.com
-||nyt.com
-||flickr.com
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
