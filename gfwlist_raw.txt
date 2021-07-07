@@ -160,3 +160,9 @@ youtube.com
 ytimg.com
 yukieyun.net
 z-lib.org
+stackexchange.com
+mastodon.cloud
+quora.com
+nytimes.com
+nyt.com
+flickr.com
