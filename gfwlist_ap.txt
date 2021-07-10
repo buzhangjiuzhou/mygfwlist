@@ -97,8 +97,8 @@
 ||mstdn.io
 ||musicbrainz.org
 ||nebula.moe
-||nicovideo.jp
 ||netflix.com
+||nicovideo.jp
 ||nvidia.com
 ||nyaa.si
 ||nyt.com
@@ -111,12 +111,12 @@
 ||pincong.rocks
 ||pixiv-recommend.net
 ||pixiv.net
+||po18.tw
 ||pornhub.com
 ||pximg.net
 ||pypi.org
 ||pytorch.org
 ||qualaroo.com
-||po18.tw
 ||quora.com
 ||quoracdn.net
 ||ravenjs.com
@@ -126,6 +126,7 @@
 ||redditstatic.com
 ||redditstatic.com
 ||rfa.org
+||rfi.fr
 ||rsshub.app 
 ||s3.amazonaws.com 
 ||sexinsex.net
@@ -149,8 +150,8 @@
 ||telegram.org
 ||telesco.pe
 ||tensorflow.org
-||thwiki.cc
 ||theporndude.com
+||thwiki.cc
 ||todoist.help 
 ||treecard.org
 ||tumblr.com 
@@ -168,8 +169,8 @@
 ||wikimedia.org 
 ||wikipedia.org
 ||wikisource.org
-||xvideos.com
 ||xhamster.com
+||xvideos.com
 ||yande.re
 ||ycombinator.com
 ||yimg.com 
@@ -178,7 +179,6 @@
 ||ytimg.com
 ||yukieyun.net
 ||z-lib.org
-||rfi.fr
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
