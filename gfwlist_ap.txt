@@ -160,6 +160,7 @@
 ||twitch.tv
 ||twitchcdn.net
 ||twitter.com
+||typecho.org
 ||v2ex.com 
 ||v2fly.org
 ||v2raytech.com
@@ -180,7 +181,6 @@
 ||ytimg.com
 ||yukieyun.net
 ||z-lib.org
-||typecho.org
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
