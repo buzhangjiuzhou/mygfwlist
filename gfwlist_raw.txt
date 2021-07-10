@@ -1,5 +1,3 @@
-
-
 acg.is
 acg.mn
 acgjc.com
@@ -69,6 +67,8 @@ imgur.com
 instagram.com
 ipfs.io
 iyouport.org
+javdb.com
+javlibrary.com
 joinmastodon.org
 jquery.com
 jsdelivr.net
@@ -92,6 +92,7 @@ mstdn.io
 musicbrainz.org
 nebula.moe
 nicovideo.jp
+netflix.com
 nvidia.com
 nyaa.si
 nyt.com
@@ -100,6 +101,7 @@ openlibrary.org
 openvpn.net
 paradoxplaza.com
 pawoo.net
+phncdn.com
 pincong.rocks
 pixiv-recommend.net
 pixiv.net
@@ -108,6 +110,7 @@ pximg.net
 pypi.org
 pytorch.org
 qualaroo.com
+po18.tw
 quora.com
 quoracdn.net
 ravenjs.com
@@ -141,6 +144,7 @@ telegram.org
 telesco.pe
 tensorflow.org
 thwiki.cc
+theporndude.com
 todoist.help 
 treecard.org
 tumblr.com 
@@ -157,7 +161,9 @@ wikidata.org
 wikihow.com
 wikimedia.org 
 wikipedia.org
-wikisource.org 
+wikisource.org
+xvideos.com
+xhamster.com
 yande.re
 ycombinator.com
 yimg.com 
@@ -166,3 +172,4 @@ youtube.com
 ytimg.com
 yukieyun.net
 z-lib.org
+rfi.fr
