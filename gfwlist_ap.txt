@@ -73,6 +73,8 @@
 ||instagram.com
 ||ipfs.io
 ||iyouport.org
+||javdb.com
+||javlibrary.com
 ||joinmastodon.org
 ||jquery.com
 ||jsdelivr.net
@@ -96,6 +98,7 @@
 ||musicbrainz.org
 ||nebula.moe
 ||nicovideo.jp
+||netflix.com
 ||nvidia.com
 ||nyaa.si
 ||nyt.com
@@ -104,6 +107,7 @@
 ||openvpn.net
 ||paradoxplaza.com
 ||pawoo.net
+||phncdn.com
 ||pincong.rocks
 ||pixiv-recommend.net
 ||pixiv.net
@@ -112,6 +116,7 @@
 ||pypi.org
 ||pytorch.org
 ||qualaroo.com
+||po18.tw
 ||quora.com
 ||quoracdn.net
 ||ravenjs.com
@@ -145,6 +150,7 @@
 ||telesco.pe
 ||tensorflow.org
 ||thwiki.cc
+||theporndude.com
 ||todoist.help 
 ||treecard.org
 ||tumblr.com 
@@ -161,7 +167,9 @@
 ||wikihow.com
 ||wikimedia.org 
 ||wikipedia.org
-||wikisource.org 
+||wikisource.org
+||xvideos.com
+||xhamster.com
 ||yande.re
 ||ycombinator.com
 ||yimg.com 
@@ -170,6 +178,7 @@
 ||ytimg.com
 ||yukieyun.net
 ||z-lib.org
+||rfi.fr
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22

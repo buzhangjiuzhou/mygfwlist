@@ -91,8 +91,8 @@ mega.nz
 mstdn.io
 musicbrainz.org
 nebula.moe
-nicovideo.jp
 netflix.com
+nicovideo.jp
 nvidia.com
 nyaa.si
 nyt.com
@@ -105,12 +105,12 @@ phncdn.com
 pincong.rocks
 pixiv-recommend.net
 pixiv.net
+po18.tw
 pornhub.com
 pximg.net
 pypi.org
 pytorch.org
 qualaroo.com
-po18.tw
 quora.com
 quoracdn.net
 ravenjs.com
@@ -120,6 +120,7 @@ redditmedia.com
 redditstatic.com
 redditstatic.com
 rfa.org
+rfi.fr
 rsshub.app 
 s3.amazonaws.com 
 sexinsex.net
@@ -143,8 +144,8 @@ telegra.ph
 telegram.org
 telesco.pe
 tensorflow.org
-thwiki.cc
 theporndude.com
+thwiki.cc
 todoist.help 
 treecard.org
 tumblr.com 
@@ -162,8 +163,8 @@ wikihow.com
 wikimedia.org 
 wikipedia.org
 wikisource.org
-xvideos.com
 xhamster.com
+xvideos.com
 yande.re
 ycombinator.com
 yimg.com 
@@ -172,4 +173,3 @@ youtube.com
 ytimg.com
 yukieyun.net
 z-lib.org
-rfi.fr
