@@ -154,6 +154,7 @@ twimg.com
 twitch.tv
 twitchcdn.net
 twitter.com
+typecho.org
 v2ex.com 
 v2fly.org
 v2raytech.com
@@ -174,4 +175,3 @@ youtube.com
 ytimg.com
 yukieyun.net
 z-lib.org
-typecho.org
