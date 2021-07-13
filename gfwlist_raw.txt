@@ -93,6 +93,7 @@ mstdn.io
 musicbrainz.org
 nebula.moe
 netflix.com
+nhentai.net
 nicovideo.jp
 nvidia.com
 nyaa.si
@@ -175,4 +176,3 @@ youtube.com
 ytimg.com
 yukieyun.net
 z-lib.org
-nhentai.net
