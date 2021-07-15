@@ -68,8 +68,8 @@ imgur.com
 instagram.com
 ipfs.io
 iyouport.org
-javdb.com
 javbus.com
+javdb.com
 javlibrary.com
 joinmastodon.org
 jquery.com

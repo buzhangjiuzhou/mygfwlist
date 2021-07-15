@@ -75,6 +75,7 @@
 ||ipfs.io
 ||iyouport.org
 ||javdb.com
+||javbus.com
 ||javlibrary.com
 ||joinmastodon.org
 ||jquery.com
