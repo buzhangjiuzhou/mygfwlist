@@ -7,7 +7,6 @@
 ||acg.is
 ||acg.mn
 ||acgjc.com
-||avgle.com
 ||akamaihd.net
 ||alive.bar
 ||amazon.co.jp
@@ -15,6 +14,7 @@
 ||amazonaws.com
 ||archive.org
 ||archiveofourown.org
+||avgle.com
 ||bangdream.space
 ||bannedbook.org
 ||blogblog.com
