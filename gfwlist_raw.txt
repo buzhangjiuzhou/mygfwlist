@@ -178,3 +178,16 @@ youtube.com
 ytimg.com
 yukieyun.net
 z-lib.org
+archive.ph
+bootcdn.net
+sourceforge.net
+qtranslate1.appspot.com
+quest-app.appspot.com
+sbcdnvideo.com
+openwebtorrent.com
+jsdelivr.net
+rawgit.com
+dmc.nico
+bbc.com
+fbcdn.net
+7mmtv.tv
