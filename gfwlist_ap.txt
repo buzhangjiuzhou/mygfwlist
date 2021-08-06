@@ -4,6 +4,7 @@
 !
 
 !--often used by me-----
+||7mmtv.tv
 ||acg.is
 ||acg.mn
 ||acgjc.com
@@ -13,14 +14,17 @@
 ||amazon.com
 ||amazonaws.com
 ||archive.org
+||archive.ph
 ||archiveofourown.org
 ||avgle.com
 ||bangdream.space
 ||bannedbook.org
+||bbc.com
 ||blogblog.com
 ||blogger.com
 ||blogspot.com
 ||boilingsteam.com
+||bootcdn.net
 ||botanwang.com
 ||brave.com
 ||bt4g.org
@@ -36,12 +40,14 @@
 ||discordapp.net
 ||discourse-cdn.com
 ||disqus.com
+||dmc.nico
 ||dns.google
 ||doubleclick.net
 ||dropbox.com
 ||dw.com
 ||facebook.com
 ||facebook.net
+||fbcdn.net
 ||flickr.com
 ||fontawesome.com
 ||frantech.ca
@@ -80,6 +86,7 @@
 ||joinmastodon.org
 ||jquery.com
 ||jsdelivr.net
+||jsdelivr.net
 ||jtvnw.net
 ||justmysocks.com
 ||justmysocks.net
@@ -109,6 +116,7 @@
 ||nytimes.com
 ||openlibrary.org
 ||openvpn.net
+||openwebtorrent.com
 ||paradoxplaza.com
 ||pawoo.net
 ||phncdn.com
@@ -120,10 +128,13 @@
 ||pximg.net
 ||pypi.org
 ||pytorch.org
+||qtranslate1.appspot.com
 ||qualaroo.com
+||quest-app.appspot.com
 ||quora.com
 ||quoracdn.net
 ||ravenjs.com
+||rawgit.com
 ||redd.it
 ||reddit.com
 ||redditmedia.com
@@ -133,12 +144,14 @@
 ||rfi.fr
 ||rsshub.app 
 ||s3.amazonaws.com 
+||sbcdnvideo.com
 ||sexinsex.net
 ||shadowsocks.org
 ||shuku.net 
 ||sis001.com
 ||sixu.life
 ||smartgslb.com
+||sourceforge.net
 ||sprov.xyz
 ||sstatic.net
 ||stackexchange.com
@@ -184,19 +197,6 @@
 ||ytimg.com
 ||yukieyun.net
 ||z-lib.org
-||archive.ph
-||bootcdn.net
-||sourceforge.net
-||qtranslate1.appspot.com
-||quest-app.appspot.com
-||sbcdnvideo.com
-||openwebtorrent.com
-||jsdelivr.net
-||rawgit.com
-||dmc.nico
-||bbc.com
-||fbcdn.net
-||7mmtv.tv
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
