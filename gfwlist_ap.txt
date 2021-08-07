@@ -5,6 +5,7 @@
 
 !--often used by me-----
 ||7mmtv.tv
+||99av.tv
 ||acg.is
 ||acg.mn
 ||acgjc.com
@@ -28,6 +29,8 @@
 ||botanwang.com
 ||brave.com
 ||bt4g.org
+||buzhangjiuzhou.com
+||bzjz.tk
 ||chinadigitaltimes.net
 ||chrome.com
 ||chun.moe
@@ -104,6 +107,7 @@
 ||mega.co.nz
 ||mega.nz
 ||mohu.rocks
+||mrdeepfakes.com
 ||mstdn.io
 ||musicbrainz.org
 ||nebula.moe
@@ -197,10 +201,6 @@
 ||ytimg.com
 ||yukieyun.net
 ||z-lib.org
-||bzjz.tk
-||buzhangjiuzhou.com
-||mrdeepfakes.com
-||99av.tv
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
