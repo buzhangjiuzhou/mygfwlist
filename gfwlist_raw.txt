@@ -1,4 +1,5 @@
 7mmtv.tv
+99av.tv
 acg.is
 acg.mn
 acgjc.com
@@ -22,6 +23,8 @@ bootcdn.net
 botanwang.com
 brave.com
 bt4g.org
+buzhangjiuzhou.com
+bzjz.tk
 chinadigitaltimes.net
 chrome.com
 chun.moe
@@ -98,6 +101,7 @@ medium.com
 mega.co.nz
 mega.nz
 mohu.rocks
+mrdeepfakes.com
 mstdn.io
 musicbrainz.org
 nebula.moe
@@ -191,7 +195,3 @@ youtube.com
 ytimg.com
 yukieyun.net
 z-lib.org
-bzjz.tk
-buzhangjiuzhou.com
-mrdeepfakes.com
-99av.tv

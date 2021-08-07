@@ -197,6 +197,10 @@
 ||ytimg.com
 ||yukieyun.net
 ||z-lib.org
+||bzjz.tk
+||buzhangjiuzhou.com
+||mrdeepfakes.com
+||99av.tv
 67.198.55.0/24
 91.108.4.0/22
 91.108.8.0/22
