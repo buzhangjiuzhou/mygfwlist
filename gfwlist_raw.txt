@@ -195,3 +195,4 @@ youtube.com
 ytimg.com
 yukieyun.net
 z-lib.org
+fandom.com
