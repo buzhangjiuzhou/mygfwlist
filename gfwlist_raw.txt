@@ -44,6 +44,7 @@ dropbox.com
 dw.com
 facebook.com
 facebook.net
+fandom.com
 fbcdn.net
 flickr.com
 fontawesome.com
@@ -195,4 +196,3 @@ youtube.com
 ytimg.com
 yukieyun.net
 z-lib.org
-fandom.com
