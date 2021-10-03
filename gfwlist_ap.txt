@@ -4,8 +4,8 @@
 !
 
 !--often used by me-----
-||7mmtv.tv
 ||4chan.org
+||7mmtv.tv
 ||99av.tv
 ||acg.is
 ||acg.mn
@@ -15,13 +15,12 @@
 ||amazon.co.jp
 ||amazon.com
 ||amazonaws.com
-||archive.md
-||arxiv.org
-||archive.org
-||chromium.org
 ||appspot.com
+||archive.md
+||archive.org
 ||archive.ph
 ||archiveofourown.org
+||arxiv.org
 ||avgle.com
 ||bangdream.space
 ||bannedbook.org
@@ -38,6 +37,7 @@
 ||bzjz.tk
 ||chinadigitaltimes.net
 ||chrome.com
+||chromium.org
 ||chun.moe
 ||cloudflare.com
 ||cmx.im
@@ -56,8 +56,8 @@
 ||facebook.com
 ||facebook.net
 ||fandom.com
-||fbcdn.net
 ||fastly.net
+||fbcdn.net
 ||flickr.com
 ||fontawesome.com
 ||frantech.ca
