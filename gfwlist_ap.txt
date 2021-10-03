@@ -5,6 +5,7 @@
 
 !--often used by me-----
 ||7mmtv.tv
+||4chan.org
 ||99av.tv
 ||acg.is
 ||acg.mn
@@ -15,7 +16,10 @@
 ||amazon.com
 ||amazonaws.com
 ||archive.md
+||arxiv.org
 ||archive.org
+||chromium.org
+||appspot.com
 ||archive.ph
 ||archiveofourown.org
 ||avgle.com
@@ -53,6 +57,7 @@
 ||facebook.net
 ||fandom.com
 ||fbcdn.net
+||fastly.net
 ||flickr.com
 ||fontawesome.com
 ||frantech.ca
@@ -151,6 +156,7 @@
 ||rsshub.app 
 ||s3.amazonaws.com 
 ||sbcdnvideo.com
+||secretchina.com
 ||sexinsex.net
 ||shadowsocks.org
 ||shuku.net 
