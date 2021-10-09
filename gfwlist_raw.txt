@@ -187,13 +187,13 @@ v2ex.com
 v2fly.org
 v2raytech.com
 vimeo.com
-wsj.com
 w3schools.com
 wikidata.org
 wikihow.com
 wikimedia.org 
 wikipedia.org
 wikisource.org
+wsj.com
 xhamster.com
 xvideos.com
 yande.re
