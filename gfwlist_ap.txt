@@ -15,6 +15,7 @@
 ||amazon.co.jp
 ||amazon.com
 ||amazonaws.com
+||ipinfo.io
 ||appspot.com
 ||archive.md
 ||archive.org
