@@ -90,6 +90,7 @@ javdb.com
 javlibrary.com
 joinmastodon.org
 jquery.com
+cmx-im.party
 jsdelivr.net
 jsdelivr.net
 jtvnw.net
