@@ -40,6 +40,7 @@
 ||chromium.org
 ||chun.moe
 ||cloudflare.com
+||cmx-im.party
 ||cmx.im
 ||daizhige.org
 ||discord.com
@@ -96,7 +97,6 @@
 ||javlibrary.com
 ||joinmastodon.org
 ||jquery.com
-||cmx-im.party
 ||jsdelivr.net
 ||jsdelivr.net
 ||jtvnw.net
