@@ -19,7 +19,6 @@
 ||archive.md
 ||archive.org
 ||archive.ph
-||duyaoss.com
 ||archiveofourown.org
 ||arxiv.org
 ||avgle.com
@@ -54,6 +53,7 @@
 ||dns.google
 ||doubleclick.net
 ||dropbox.com
+||duyaoss.com
 ||dw.com
 ||facebook.com
 ||facebook.net
