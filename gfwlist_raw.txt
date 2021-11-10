@@ -18,8 +18,8 @@ arxiv.org
 avgle.com
 bangdream.space
 bannedbook.org
-threadreaderapp.com
 bbc.com
+beamreddit.com
 blogblog.com
 blogger.com
 blogspot.com
@@ -101,6 +101,8 @@ justmysocks.net
 justmysocks.net
 lala.im
 lexity.com 
+libgen.fun
+libgen.is
 listenbrainz.org
 marxists.org
 mastodon.cloud
@@ -149,6 +151,7 @@ reddit.com
 redditmedia.com
 redditstatic.com
 redditstatic.com
+reuters.com
 rfa.org
 rfi.fr
 rsshub.app 
@@ -177,11 +180,8 @@ telegra.ph
 telegram.org
 telesco.pe
 tensorflow.org
-beamreddit.com
-reuters.com
-libgen.is
-libgen.fun
 theporndude.com
+threadreaderapp.com
 thwiki.cc
 todoist.help 
 treecard.org
