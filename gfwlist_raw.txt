@@ -18,6 +18,7 @@ arxiv.org
 avgle.com
 bangdream.space
 bannedbook.org
+threadreaderapp.com
 bbc.com
 blogblog.com
 blogger.com
@@ -176,6 +177,10 @@ telegra.ph
 telegram.org
 telesco.pe
 tensorflow.org
+beamreddit.com
+reuters.com
+libgen.is
+libgen.fun
 theporndude.com
 thwiki.cc
 todoist.help 
