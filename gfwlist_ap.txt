@@ -20,6 +20,7 @@
 ||archive.org
 ||archive.ph
 ||archiveofourown.org
+||wiktionary.org
 ||arxiv.org
 ||avgle.com
 ||bangdream.space

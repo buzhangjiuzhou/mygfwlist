@@ -14,7 +14,6 @@ archive.md
 archive.org
 archive.ph
 archiveofourown.org
-wiktionary.org
 arxiv.org
 avgle.com
 bangdream.space
@@ -202,6 +201,7 @@ wikihow.com
 wikimedia.org 
 wikipedia.org
 wikisource.org
+wiktionary.org
 wsj.com
 xhamster.com
 xvideos.com
