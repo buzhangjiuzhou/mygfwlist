@@ -18,6 +18,7 @@
 ||appspot.com
 ||archive.md
 ||archive.org
+||freewechat.com
 ||archive.ph
 ||archiveofourown.org
 ||arxiv.org
