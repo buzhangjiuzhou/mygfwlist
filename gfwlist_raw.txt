@@ -8,7 +8,6 @@ akamaihd.net
 alive.bar
 amazon.co.jp
 amazon.com
-diygod.me
 amazonaws.com
 appspot.com
 archive.md
@@ -45,6 +44,7 @@ discordapp.com
 discordapp.net
 discourse-cdn.com
 disqus.com
+diygod.me
 dmc.nico
 dns.google
 doubleclick.net

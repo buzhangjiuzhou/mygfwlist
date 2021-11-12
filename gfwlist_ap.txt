@@ -14,6 +14,7 @@
 ||alive.bar
 ||amazon.co.jp
 ||amazon.com
+||diygod.me
 ||amazonaws.com
 ||appspot.com
 ||archive.md
