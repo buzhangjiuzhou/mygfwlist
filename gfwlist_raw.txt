@@ -16,7 +16,6 @@ archive.ph
 archiveofourown.org
 arxiv.org
 avgle.com
-xiaomi.eu
 bangdream.space
 bannedbook.org
 bbc.com
@@ -207,6 +206,7 @@ wikisource.org
 wiktionary.org
 wsj.com
 xhamster.com
+xiaomi.eu
 xvideos.com
 yande.re
 ycombinator.com
