@@ -172,7 +172,6 @@
 ||sis001.com
 ||sixu.life
 ||smartgslb.com
-||sourceforge.net
 ||sprov.xyz
 ||sstatic.net
 ||stackexchange.com
