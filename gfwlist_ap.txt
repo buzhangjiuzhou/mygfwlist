@@ -14,7 +14,6 @@
 ||alive.bar
 ||amazon.co.jp
 ||amazon.com
-||steampowered.com
 ||amazonaws.com
 ||appspot.com
 ||archive.md
@@ -179,6 +178,7 @@
 ||stackoverflow.com
 ||startpage.com
 ||steamcommunity.com
+||steampowered.com
 ||steampowered.com
 ||steemit.com
 ||t.co
