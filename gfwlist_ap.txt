@@ -180,8 +180,8 @@
 ||steamcommunity.com
 ||steampowered.com
 ||steampowered.com
-||substack.com
 ||steemit.com
+||substack.com
 ||t.co
 ||t.me
 ||teddysun.com 
@@ -213,8 +213,8 @@
 ||wiktionary.org
 ||wsj.com
 ||xhamster.com
-||xkcd.com
 ||xiaomi.eu
+||xkcd.com
 ||xvideos.com
 ||yande.re
 ||ycombinator.com
