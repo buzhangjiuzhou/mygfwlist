@@ -174,6 +174,7 @@ startpage.com
 steamcommunity.com
 steampowered.com
 steampowered.com
+substack.com
 steemit.com
 t.co
 t.me
@@ -206,6 +207,7 @@ wikisource.org
 wiktionary.org
 wsj.com
 xhamster.com
+xkcd.com
 xiaomi.eu
 xvideos.com
 yande.re
