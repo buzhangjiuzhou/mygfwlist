@@ -16,12 +16,11 @@
 ||amazon.com
 ||amazonaws.com
 ||appspot.com
+||archive.fo
+||archive.is
 ||archive.md
 ||archive.org
 ||archive.ph
-||archive.fo
-||archive.is
-||joinpeertube.org
 ||archiveofourown.org
 ||arxiv.org
 ||avgle.com
@@ -104,6 +103,7 @@
 ||javdb.com
 ||javlibrary.com
 ||joinmastodon.org
+||joinpeertube.org
 ||jquery.com
 ||jsdelivr.net
 ||jsdelivr.net
@@ -116,6 +116,7 @@
 ||libgen.fun
 ||libgen.is
 ||listenbrainz.org
+||m-i.im
 ||marxists.org
 ||mastodon.cloud
 ||mastodon.online
@@ -126,7 +127,6 @@
 ||mega.co.nz
 ||mega.nz
 ||mohu.rocks
-||m-i.im
 ||mrdeepfakes.com
 ||mstdn.io
 ||musicbrainz.org
