@@ -13,6 +13,9 @@ appspot.com
 archive.md
 archive.org
 archive.ph
+archive.fo
+archive.is
+joinpeertube.org
 archiveofourown.org
 arxiv.org
 avgle.com
@@ -85,6 +88,7 @@ greatfire.org
 gstatic.com
 hey.science
 hrw.org
+hydrogenaud.io
 imgur.com
 instagram.com
 ipfs.io
@@ -116,6 +120,7 @@ medium.com
 mega.co.nz
 mega.nz
 mohu.rocks
+m-i.im
 mrdeepfakes.com
 mstdn.io
 musicbrainz.org
@@ -198,6 +203,7 @@ v2ex.com
 v2fly.org
 v2raytech.com
 vimeo.com
+voachinese.com
 w3schools.com
 wikidata.org
 wikihow.com
