@@ -95,6 +95,7 @@
 ||hey.science
 ||hrw.org
 ||hydrogenaud.io
+||hostloc.com
 ||imgur.com
 ||instagram.com
 ||ipfs.io
