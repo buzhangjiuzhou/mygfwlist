@@ -4,10 +4,18 @@
 !
 
 !--often used by me-----
+||1lib.education
+||1lib.limited
+||1lib.net
+||1lib.org
 ||2047.one
+||2lib.org
+||3lib.net
 ||4chan.org
+||4lib.org
 ||7mmtv.tv
 ||99av.tv
+||abc.net.au
 ||acg.is
 ||acg.mn
 ||acgjc.com
@@ -23,8 +31,12 @@
 ||archive.org
 ||archive.ph
 ||archiveofourown.org
+||art1lib.org
 ||arxiv.org
 ||avgle.com
+||b-ok.as
+||b-ok.asia
+||b-ok.global
 ||bangdream.space
 ||bannedbook.org
 ||bbc.com
@@ -33,6 +45,7 @@
 ||blogger.com
 ||blogspot.com
 ||boilingsteam.com
+||booksc.org
 ||bootcdn.net
 ||botanwang.com
 ||brave.com
@@ -43,6 +56,7 @@
 ||chrome.com
 ||chromium.org
 ||chun.moe
+||citizen-power.org
 ||cloudflare.com
 ||cmx-im.party
 ||cmx.im
@@ -53,12 +67,6 @@
 ||discordapp.net
 ||discourse-cdn.com
 ||disqus.com
-||wikiwand.com
-||youtube-nocookie.com
-||onetrust.com
-||pinterest.com
-||spotify.com
-||pinimg.com
 ||diygod.me
 ||dmc.nico
 ||dns.google
@@ -66,33 +74,15 @@
 ||dropbox.com
 ||duyaoss.com
 ||dw.com
-||facebook.com
 ||epochtimes.com
-||foreignaffairs.com
-||hostloc.com
-||gongminliliang.org
-||citizen-power.org
-||abc.net.au
-||jp1lib.org
-||b-ok.asia
-||2lib.org
-||b-ok.as
-||b-ok.global
-||1lib.org
-||3lib.net
-||4lib.org
-||1lib.net
-||1lib.education
-||1lib.limited
-||booksc.org
-||art1lib.org
-||z-lib.org
+||facebook.com
 ||facebook.net
 ||fandom.com
 ||fastly.net
 ||fbcdn.net
 ||flickr.com
 ||fontawesome.com
+||foreignaffairs.com
 ||frantech.ca
 ||freewechat.com
 ||fuchsia.dev
@@ -105,6 +95,7 @@
 ||github.io
 ||githubusercontent.com
 ||gmail.com
+||gongminliliang.org
 ||google-analytics.com
 ||google.co.jp
 ||google.com
@@ -120,6 +111,7 @@
 ||gstatic.com
 ||hey.science
 ||hostloc.com
+||hostloc.com
 ||hrw.org
 ||hydrogenaud.io
 ||imgur.com
@@ -132,6 +124,7 @@
 ||javlibrary.com
 ||joinmastodon.org
 ||joinpeertube.org
+||jp1lib.org
 ||jquery.com
 ||jsdelivr.net
 ||jsdelivr.net
@@ -166,6 +159,7 @@
 ||nyaa.si
 ||nyt.com
 ||nytimes.com
+||onetrust.com
 ||openlibrary.org
 ||openvpn.net
 ||openwebtorrent.com
@@ -173,6 +167,8 @@
 ||pawoo.net
 ||phncdn.com
 ||pincong.rocks
+||pinimg.com
+||pinterest.com
 ||pixiv-recommend.net
 ||pixiv.net
 ||po18.tw
@@ -205,6 +201,7 @@
 ||sis001.com
 ||sixu.life
 ||smartgslb.com
+||spotify.com
 ||sprov.xyz
 ||sstatic.net
 ||stackexchange.com
@@ -244,6 +241,7 @@
 ||wikimedia.org 
 ||wikipedia.org
 ||wikisource.org
+||wikiwand.com
 ||wiktionary.org
 ||wsj.com
 ||xhamster.com
@@ -254,9 +252,11 @@
 ||ycombinator.com
 ||yimg.com 
 ||youtu.be
+||youtube-nocookie.com
 ||youtube.com
 ||ytimg.com
 ||yukieyun.net
+||z-lib.org
 ||z-lib.org
 91.108.56.0/22
 91.108.4.0/22
