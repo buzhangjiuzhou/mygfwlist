@@ -105,7 +105,6 @@ greatfire.org
 gstatic.com
 hey.science
 hostloc.com
-hostloc.com
 hrw.org
 hydrogenaud.io
 imgur.com
@@ -121,10 +120,8 @@ joinpeertube.org
 jp1lib.org
 jquery.com
 jsdelivr.net
-jsdelivr.net
 jtvnw.net
 justmysocks.com
-justmysocks.net
 justmysocks.net
 lala.im
 lexity.com 
@@ -181,7 +178,6 @@ redd.it
 reddit.com
 redditmedia.com
 redditstatic.com
-redditstatic.com
 reuters.com
 rfa.org
 rfi.fr
@@ -202,7 +198,6 @@ stackexchange.com
 stackoverflow.com
 startpage.com
 steamcommunity.com
-steampowered.com
 steampowered.com
 steemit.com
 substack.com
@@ -250,5 +245,4 @@ youtube-nocookie.com
 youtube.com
 ytimg.com
 yukieyun.net
-z-lib.org
 z-lib.org
