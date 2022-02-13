@@ -111,7 +111,6 @@
 ||gstatic.com
 ||hey.science
 ||hostloc.com
-||hostloc.com
 ||hrw.org
 ||hydrogenaud.io
 ||imgur.com
@@ -127,10 +126,8 @@
 ||jp1lib.org
 ||jquery.com
 ||jsdelivr.net
-||jsdelivr.net
 ||jtvnw.net
 ||justmysocks.com
-||justmysocks.net
 ||justmysocks.net
 ||lala.im
 ||lexity.com 
@@ -187,7 +184,6 @@
 ||reddit.com
 ||redditmedia.com
 ||redditstatic.com
-||redditstatic.com
 ||reuters.com
 ||rfa.org
 ||rfi.fr
@@ -208,7 +204,6 @@
 ||stackoverflow.com
 ||startpage.com
 ||steamcommunity.com
-||steampowered.com
 ||steampowered.com
 ||steemit.com
 ||substack.com
@@ -256,7 +251,6 @@
 ||youtube.com
 ||ytimg.com
 ||yukieyun.net
-||z-lib.org
 ||z-lib.org
 91.108.56.0/22
 91.108.4.0/22
