@@ -248,6 +248,7 @@
 ||yande.re
 ||ycombinator.com
 ||yimg.com 
+||yibaochina.com
 ||youtu.be
 ||youtube-nocookie.com
 ||youtube.com
