@@ -10,6 +10,7 @@
 7mmtv.tv
 99av.tv
 abc.net.au
+cloudcone.com
 acg.is
 acg.mn
 acgjc.com
@@ -50,9 +51,11 @@ chromium.org
 chun.moe
 citizen-power.org
 cloudflare.com
+chinagfw.org
 cmx-im.party
 cmx.im
 daizhige.org
+protonvpn.com
 discord.com
 discord.gg
 discordapp.com
@@ -151,6 +154,7 @@ nyt.com
 nytimes.com
 onetrust.com
 openlibrary.org
+protonvpn.ch
 openvpn.net
 openwebtorrent.com
 paradoxplaza.com
