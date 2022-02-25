@@ -16,7 +16,6 @@
 ||7mmtv.tv
 ||99av.tv
 ||abc.net.au
-||cloudcone.com
 ||acg.is
 ||acg.mn
 ||acgjc.com
@@ -52,16 +51,16 @@
 ||brave.com
 ||bt4g.org
 ||chinadigitaltimes.net
+||chinagfw.org
 ||chrome.com
 ||chromium.org
 ||chun.moe
 ||citizen-power.org
+||cloudcone.com
 ||cloudflare.com
-||chinagfw.org
 ||cmx-im.party
 ||cmx.im
 ||daizhige.org
-||protonvpn.com
 ||discord.com
 ||discord.gg
 ||discordapp.com
@@ -160,7 +159,6 @@
 ||nytimes.com
 ||onetrust.com
 ||openlibrary.org
-||protonvpn.ch
 ||openvpn.net
 ||openwebtorrent.com
 ||paradoxplaza.com
@@ -173,6 +171,8 @@
 ||pixiv.net
 ||po18.tw
 ||pornhub.com
+||protonvpn.ch
+||protonvpn.com
 ||pximg.net
 ||pypi.org
 ||pytorch.org
