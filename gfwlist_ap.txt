@@ -92,8 +92,8 @@
 ||ggpht.com
 ||github.blog 
 ||github.com
-||githubassets.com
 ||github.io
+||githubassets.com
 ||githubusercontent.com
 ||gmail.com
 ||gongminliliang.org
