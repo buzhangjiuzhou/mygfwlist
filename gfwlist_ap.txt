@@ -92,6 +92,7 @@
 ||ggpht.com
 ||github.blog 
 ||github.com
+||githubassets.com
 ||github.io
 ||githubusercontent.com
 ||gmail.com
