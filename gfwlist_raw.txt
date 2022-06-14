@@ -25,7 +25,6 @@ archive.md
 archive.org
 archive.ph
 archive.today
-wxw.moe
 archiveofourown.org
 art1lib.org
 arxiv.org
@@ -36,6 +35,7 @@ b-ok.global
 bangdream.space
 bannedbook.org
 bbc.com
+bbci.co.uk
 beamreddit.com
 blogblog.com
 blogger.com
@@ -82,7 +82,6 @@ foreignaffairs.com
 frantech.ca
 freewechat.com
 freeweibo.com
-bbci.co.uk
 fuchsia.dev
 gamelisp.rs
 geeksforgeeks.org
@@ -137,18 +136,18 @@ listenbrainz.org
 m-i.im
 marxists.org
 mastodon.cloud
+mastodon.nl
 mastodon.online
 mastodon.social
 mastodonrocks.com
 matters.news
 medium.com
 mega.co.nz
-mega.nz
 mega.io
+mega.nz
 mohu.rocks
 mrdeepfakes.com
 mstdn.io
-mastodon.nl
 musicbrainz.org
 nebula.moe
 netflix.com
@@ -244,6 +243,7 @@ wikisource.org
 wikiwand.com
 wiktionary.org
 wsj.com
+wxw.moe
 xhamster.com
 xiaomi.eu
 xkcd.com
