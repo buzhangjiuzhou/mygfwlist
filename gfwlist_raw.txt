@@ -37,6 +37,7 @@ bannedbook.org
 bbc.com
 bbci.co.uk
 beamreddit.com
+bgme.me
 blogblog.com
 blogger.com
 blogspot.com
@@ -44,7 +45,6 @@ boilingsteam.com
 booksc.org
 bootcdn.net
 botanwang.com
-bgme.me
 brave.com
 bt4g.org
 chinadigitaltimes.net
