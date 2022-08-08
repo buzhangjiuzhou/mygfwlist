@@ -38,7 +38,6 @@ bbc.com
 bbci.co.uk
 beamreddit.com
 bgme.me
-buzhangjiuzhou.com
 blogblog.com
 blogger.com
 blogspot.com
@@ -48,6 +47,7 @@ bootcdn.net
 botanwang.com
 brave.com
 bt4g.org
+buzhangjiuzhou.com
 chinadigitaltimes.net
 chinagfw.org
 chrome.com
