@@ -65,6 +65,9 @@
 ||cmx-im.party
 ||cmx.im
 ||daizhige.org
+||digitaloceanspaces.com
+||gumroad.com
+||ftchinese.com
 ||discord.com
 ||discord.gg
 ||discordapp.com

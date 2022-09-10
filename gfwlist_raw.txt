@@ -60,8 +60,6 @@ cmx-im.party
 cmx.im
 daizhige.org
 digitaloceanspaces.com
-gumroad.com
-ftchinese.com
 discord.com
 discord.gg
 discordapp.com
@@ -87,6 +85,7 @@ foreignaffairs.com
 frantech.ca
 freewechat.com
 freeweibo.com
+ftchinese.com
 fuchsia.dev
 gamelisp.rs
 geeksforgeeks.org
@@ -112,6 +111,7 @@ googlevideo.com
 gravatar.com
 greatfire.org
 gstatic.com
+gumroad.com
 hey.science
 hmoegirl.com
 hostloc.com
