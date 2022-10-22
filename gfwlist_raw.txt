@@ -35,6 +35,8 @@ b-ok.global
 bangdream.space
 bannedbook.org
 bbc.com
+bit.ly
+element.io
 bbci.co.uk
 beamreddit.com
 bgme.me
@@ -65,6 +67,7 @@ discord.gg
 discordapp.com
 discordapp.net
 discourse-cdn.com
+duckduckgo.com
 disqus.com
 diygod.me
 dmc.nico
@@ -92,6 +95,7 @@ geeksforgeeks.org
 geph.io
 ggpht.com
 github.blog 
+ft.com
 github.com
 github.io
 githubassets.com
@@ -221,6 +225,7 @@ t.co
 t.me
 teddysun.com 
 telegra.ph
+telegram.me
 telegram.org
 telesco.pe
 tensorflow.org
