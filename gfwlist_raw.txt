@@ -35,11 +35,10 @@ b-ok.global
 bangdream.space
 bannedbook.org
 bbc.com
-bit.ly
-element.io
 bbci.co.uk
 beamreddit.com
 bgme.me
+bit.ly
 blogblog.com
 blogger.com
 blogspot.com
@@ -67,15 +66,16 @@ discord.gg
 discordapp.com
 discordapp.net
 discourse-cdn.com
-duckduckgo.com
 disqus.com
 diygod.me
 dmc.nico
 dns.google
 doubleclick.net
 dropbox.com
+duckduckgo.com
 duyaoss.com
 dw.com
+element.io
 epochtimes.com
 facebook.com
 facebook.net
@@ -88,6 +88,7 @@ foreignaffairs.com
 frantech.ca
 freewechat.com
 freeweibo.com
+ft.com
 ftchinese.com
 fuchsia.dev
 gamelisp.rs
@@ -95,7 +96,6 @@ geeksforgeeks.org
 geph.io
 ggpht.com
 github.blog 
-ft.com
 github.com
 github.io
 githubassets.com
