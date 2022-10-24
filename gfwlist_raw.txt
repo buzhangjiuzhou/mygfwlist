@@ -9,11 +9,8 @@
 4lib.org
 7mmtv.tv
 99av.tv
-abc.net.au
-chaoyu.us
 9kb.me
-biplus.date
-leetcode.com
+abc.net.au
 acg.is
 acg.mn
 acgjc.com
@@ -42,6 +39,7 @@ bbc.com
 bbci.co.uk
 beamreddit.com
 bgme.me
+biplus.date
 bit.ly
 blogblog.com
 blogger.com
@@ -53,6 +51,7 @@ botanwang.com
 brave.com
 bt4g.org
 buzhangjiuzhou.com
+chaoyu.us
 chinadigitaltimes.net
 chinagfw.org
 chrome.com
@@ -142,6 +141,7 @@ jtvnw.net
 justmysocks.com
 justmysocks.net
 lala.im
+leetcode.com
 lexity.com 
 libgen.fun
 libgen.is
