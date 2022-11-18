@@ -54,6 +54,7 @@
 ||booksc.org
 ||bootcdn.net
 ||botanwang.com
+||botsin.space
 ||brave.com
 ||bt4g.org
 ||buzhangjiuzhou.com
@@ -79,6 +80,7 @@
 ||diygod.me
 ||dmc.nico
 ||dns.google
+||docker.com
 ||doubleclick.net
 ||dropbox.com
 ||duckduckgo.com
@@ -160,6 +162,7 @@
 ||mastodon.online
 ||mastodon.social
 ||mastodonrocks.com
+||matrix.org
 ||matters.news
 ||medium.com
 ||mega.co.nz
@@ -167,12 +170,9 @@
 ||mega.nz
 ||mohu.rocks
 ||mrdeepfakes.com
-||matrix.org
-||docker.com
-||myduty.net
-||botsin.space
 ||mstdn.io
 ||musicbrainz.org
+||myduty.net
 ||nebula.moe
 ||netflix.com
 ||nhentai.net
