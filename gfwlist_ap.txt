@@ -167,6 +167,10 @@
 ||mega.nz
 ||mohu.rocks
 ||mrdeepfakes.com
+||matrix.org
+||docker.com
+||myduty.net
+||botsin.space
 ||mstdn.io
 ||musicbrainz.org
 ||nebula.moe
