@@ -109,6 +109,7 @@
 ||github.blog 
 ||github.com
 ||github.io
+||gitlab.io
 ||githubassets.com
 ||githubusercontent.com
 ||gmail.com
@@ -118,6 +119,10 @@
 ||google.com
 ||google.com.hk
 ||googleapis.com
+||wenxuecity.com
+||moe.tips
+||go.dev
+||go5.dev
 ||googlesource.com
 ||googletagmanager.com
 ||googletagservices.com
