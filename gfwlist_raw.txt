@@ -23,6 +23,7 @@ appspot.com
 archive.fo
 archive.is
 archive.md
+poe.com
 archive.org
 archive.ph
 archive.today
@@ -136,6 +137,11 @@ ipinfo.io
 iyouport.org
 javbus.com
 javdb.com
+1lib.to
+1lib.ph
+1lib.cz
+licdn.com
+error.im
 javlibrary.com
 joinmastodon.org
 joinpeertube.org
@@ -165,6 +171,11 @@ medium.com
 mega.co.nz
 mega.io
 mega.nz
+mstdn.social
+msauth.net
+bing.com
+pornpen.ai
+stripe.com
 moe.tips
 mohu.rocks
 mrdeepfakes.com
