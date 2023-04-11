@@ -67,6 +67,7 @@
 ||chinagfw.org
 ||chrome.com
 ||chromium.org
+||course.rs
 ||chun.moe
 ||citizen-power.org
 ||cloudcone.com
