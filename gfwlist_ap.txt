@@ -13,8 +13,6 @@
 ||1lib.to
 ||2047.one
 ||2lib.org
-||springwood.me
-||herokuapp.com
 ||3lib.net
 ||4chan.org
 ||4lib.org
@@ -138,6 +136,7 @@
 ||greatfire.org
 ||gstatic.com
 ||gumroad.com
+||herokuapp.com
 ||hey.science
 ||hmoegirl.com
 ||hostloc.com
@@ -243,6 +242,7 @@
 ||sixu.life
 ||smartgslb.com
 ||spotify.com
+||springwood.me
 ||sprov.xyz
 ||sstatic.net
 ||stackexchange.com
