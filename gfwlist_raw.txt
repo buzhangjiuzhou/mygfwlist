@@ -6,7 +6,6 @@
 1lib.ph
 1lib.to
 1login.to
-edaplayground.com
 2047.one
 2lib.org
 3lib.net
@@ -88,6 +87,7 @@ dropbox.com
 duckduckgo.com
 duyaoss.com
 dw.com
+edaplayground.com
 element.io
 epochtimes.com
 error.im
