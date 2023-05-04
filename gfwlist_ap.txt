@@ -24,7 +24,6 @@
 ||acg.is
 ||acg.mn
 ||acgjc.com
-||stripecdn.com
 ||akamaihd.net
 ||alive.bar
 ||amazon.co.jp
@@ -258,6 +257,7 @@
 ||steampowered.com
 ||steemit.com
 ||stripe.com
+||stripecdn.com
 ||substack.com
 ||t.co
 ||t.me
