@@ -24,6 +24,7 @@
 ||acg.is
 ||acg.mn
 ||acgjc.com
+||stripecdn.com
 ||akamaihd.net
 ||alive.bar
 ||amazon.co.jp

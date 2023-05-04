@@ -18,7 +18,6 @@ abc.net.au
 acg.is
 acg.mn
 acgjc.com
-stripecdn.com
 akamaihd.net
 alive.bar
 amazon.co.jp
@@ -252,6 +251,7 @@ steamcommunity.com
 steampowered.com
 steemit.com
 stripe.com
+stripecdn.com
 substack.com
 t.co
 t.me
