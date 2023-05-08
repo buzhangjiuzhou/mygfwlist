@@ -5,7 +5,6 @@
 1lib.org
 1lib.ph
 1lib.to
-imagedelivery.net
 1login.to
 2047.one
 2lib.org
@@ -141,6 +140,7 @@ hmoegirl.com
 hostloc.com
 hrw.org
 hydrogenaud.io
+imagedelivery.net
 imgur.com
 instagram.com
 ipfs.io
