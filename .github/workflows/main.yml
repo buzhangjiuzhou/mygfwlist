@@ -22,7 +22,7 @@ jobs:
           GHA_DEPLOY_KEY: ${{ secrets.GHA_DEPLOY_KEY }}
         run: |
          git add .
-         git config --local user.email "972161836@qq.com"
+         git config --local user.email "buzhangjiuzhou@gmail.com"
          git config --local user.name "buzhangjiuzhou"
          git commit -a -m "auto update"
          git remote set-url origin "$(git config --get remote.origin.url | sed 's#http.*com/#git@github.com:#g')"
