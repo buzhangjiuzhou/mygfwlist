@@ -40,7 +40,6 @@
 ||art1lib.org
 ||arxiv.org
 ||avgle.com
-||azureedge.net
 ||b-ok.as
 ||b-ok.asia
 ||b-ok.global
