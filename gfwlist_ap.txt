@@ -13,6 +13,7 @@
 ||1lib.to
 ||1login.to
 ||2047.one
+||speedtest.net
 ||2lib.org
 ||3lib.net
 ||4chan.org
