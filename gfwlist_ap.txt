@@ -15,7 +15,6 @@
 ||2047.one
 ||2lib.org
 ||3lib.net
-||ngocn2.org
 ||4chan.org
 ||4lib.org
 ||7mmtv.tv
@@ -196,6 +195,7 @@
 ||myduty.net
 ||nebula.moe
 ||netflix.com
+||ngocn2.org
 ||nhentai.net
 ||nicovideo.jp
 ||nvidia.com
