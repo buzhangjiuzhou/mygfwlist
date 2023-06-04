@@ -256,11 +256,15 @@ steamcommunity.com
 steampowered.com
 steemit.com
 stripe.com
+sourceforge.net
+neodb.social
+reimu.net
 stripecdn.com
 substack.com
 t.co
 t.me
 teddysun.com 
+wainao.me
 telegra.ph
 telegram.me
 telegram.org
@@ -280,6 +284,7 @@ typecho.org
 v2ex.com 
 v2fly.org
 v2raytech.com
+vpngate.jp
 vimeo.com
 voachinese.com
 w3schools.com
