@@ -17,7 +17,6 @@
 ||3lib.net
 ||4chan.org
 ||4lib.org
-||google.nl
 ||7mmtv.tv
 ||99av.tv
 ||9kb.me
@@ -132,6 +131,7 @@
 ||google.co.jp
 ||google.com
 ||google.com.hk
+||google.nl
 ||googleapis.com
 ||googlesource.com
 ||googletagmanager.com
