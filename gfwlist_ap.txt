@@ -14,8 +14,6 @@
 ||1login.to
 ||2047.one
 ||2lib.org
-||backblaze.com
-||backblazeb2.com
 ||3lib.net
 ||4chan.org
 ||4lib.org
@@ -45,6 +43,8 @@
 ||b-ok.as
 ||b-ok.asia
 ||b-ok.global
+||backblaze.com
+||backblazeb2.com
 ||bangdream.space
 ||bannedbook.org
 ||bbc.com
