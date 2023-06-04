@@ -194,6 +194,7 @@
 ||musicbrainz.org
 ||myduty.net
 ||nebula.moe
+||neodb.social
 ||netflix.com
 ||ngocn2.org
 ||nhentai.net
@@ -237,6 +238,7 @@
 ||reddit.com
 ||redditmedia.com
 ||redditstatic.com
+||reimu.net
 ||reuters.com
 ||rfa.org
 ||rfi.fr
@@ -250,6 +252,7 @@
 ||sis001.com
 ||sixu.life
 ||smartgslb.com
+||sourceforge.net
 ||speedtest.net
 ||spotify.com
 ||springwood.me
@@ -262,15 +265,11 @@
 ||steampowered.com
 ||steemit.com
 ||stripe.com
-||sourceforge.net
-||neodb.social
-||reimu.net
 ||stripecdn.com
 ||substack.com
 ||t.co
 ||t.me
 ||teddysun.com 
-||wainao.me
 ||telegra.ph
 ||telegram.me
 ||telegram.org
@@ -290,9 +289,9 @@
 ||v2ex.com 
 ||v2fly.org
 ||v2raytech.com
-||vpngate.jp
 ||vimeo.com
 ||voachinese.com
+||vpngate.jp
 ||w3schools.com
 ||wainao.me
 ||wenxuecity.com
