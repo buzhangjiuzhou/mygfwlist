@@ -261,6 +261,7 @@ stackoverflow.com
 startpage.com
 steamcommunity.com
 steampowered.com
+steamstatic.com
 steemit.com
 stripe.com
 stripecdn.com
