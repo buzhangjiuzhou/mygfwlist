@@ -75,6 +75,7 @@ course.rs
 daizhige.org
 digitaloceanspaces.com
 discord.com
+discord.net
 discord.gg
 discordapp.com
 discordapp.net
