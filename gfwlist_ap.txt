@@ -81,8 +81,8 @@
 ||daizhige.org
 ||digitaloceanspaces.com
 ||discord.com
-||discord.net
 ||discord.gg
+||discord.net
 ||discordapp.com
 ||discordapp.net
 ||discourse-cdn.com
