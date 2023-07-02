@@ -12,7 +12,6 @@
 4chan.org
 4lib.org
 7mmtv.tv
-creaders.net
 99av.tv
 9kb.me
 abc.net.au
@@ -23,7 +22,6 @@ akamaihd.net
 alive.bar
 amazon.co.jp
 amazon.com
-xvideos-cdn.com
 amazonaws.com
 appspot.com
 archive.fo
@@ -74,6 +72,7 @@ cloudflare.com
 cmx-im.party
 cmx.im
 course.rs
+creaders.net
 daizhige.org
 digitaloceanspaces.com
 discord.com
@@ -308,6 +307,7 @@ wxw.moe
 xhamster.com
 xiaomi.eu
 xkcd.com
+xvideos-cdn.com
 xvideos.com
 yande.re
 ycombinator.com
