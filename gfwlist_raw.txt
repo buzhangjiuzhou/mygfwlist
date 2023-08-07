@@ -8,6 +8,7 @@
 1login.to
 2047.one
 2lib.org
+tandem.net
 3lib.net
 4chan.org
 4lib.org
