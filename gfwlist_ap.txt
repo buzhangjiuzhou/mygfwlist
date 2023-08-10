@@ -15,7 +15,6 @@
 ||2047.one
 ||2lib.org
 ||3lib.net
-||mozilla.org
 ||4chan.org
 ||4lib.org
 ||7mmtv.tv
@@ -193,6 +192,7 @@
 ||mega.nz
 ||moe.tips
 ||mohu.rocks
+||mozilla.org
 ||mrdeepfakes.com
 ||msauth.net
 ||mstdn.io
