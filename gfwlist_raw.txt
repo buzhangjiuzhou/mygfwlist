@@ -11,13 +11,6 @@
 3lib.net
 4chan.org
 4lib.org
-bahamut.com.tw
-com.tw
-nocookie.net
-media-amazon.com
-stripe.com
-practice.rs
-aqours.today
 7mmtv.tv
 99av.tv
 9kb.me
@@ -31,6 +24,7 @@ amazon.co.jp
 amazon.com
 amazonaws.com
 appspot.com
+aqours.today
 archive.fo
 archive.is
 archive.md
@@ -46,6 +40,7 @@ b-ok.asia
 b-ok.global
 backblaze.com
 backblazeb2.com
+bahamut.com.tw
 bangdream.space
 bannedbook.org
 bbc.com
@@ -78,6 +73,7 @@ cloudcone.com
 cloudflare.com
 cmx-im.party
 cmx.im
+com.tw
 course.rs
 creaders.net
 daizhige.org
@@ -188,6 +184,7 @@ matrix.org
 matters.news
 matters.town
 mattersprotocol.io
+media-amazon.com
 medium.com
 mega.co.nz
 mega.io
@@ -207,6 +204,7 @@ netflix.com
 ngocn2.org
 nhentai.net
 nicovideo.jp
+nocookie.net
 nvidia.com
 nyaa.si
 nyt.com
@@ -230,6 +228,7 @@ poe.com
 poecdn.net
 pornhub.com
 pornpen.ai
+practice.rs
 protonvpn.ch
 protonvpn.com
 pximg.net

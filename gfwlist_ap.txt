@@ -17,6 +17,13 @@
 ||3lib.net
 ||4chan.org
 ||4lib.org
+||bahamut.com.tw
+||com.tw
+||nocookie.net
+||media-amazon.com
+||stripe.com
+||practice.rs
+||aqours.today
 ||7mmtv.tv
 ||99av.tv
 ||9kb.me
