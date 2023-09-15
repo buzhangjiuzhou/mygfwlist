@@ -165,6 +165,7 @@ jp1lib.org
 jquery.com
 jsdelivr.net
 jtvnw.net
+keepass.info
 justmysocks.com
 justmysocks.net
 lala.im
