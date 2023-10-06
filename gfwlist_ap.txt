@@ -16,7 +16,6 @@
 ||2heng.xin
 ||2lib.org
 ||3lib.net
-||newsweek.com
 ||4chan.org
 ||4lib.org
 ||7mmtv.tv
@@ -211,6 +210,7 @@
 ||nebula.moe
 ||neodb.social
 ||netflix.com
+||newsweek.com
 ||ngocn2.org
 ||nhentai.net
 ||nicovideo.jp
