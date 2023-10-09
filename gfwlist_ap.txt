@@ -15,7 +15,6 @@
 ||2047.one
 ||2heng.xin
 ||2lib.org
-||idrlabs.com
 ||3lib.net
 ||4chan.org
 ||4lib.org
@@ -157,6 +156,7 @@
 ||hrw.org
 ||hydrogenaud.io
 ||idrive.com
+||idrlabs.com
 ||imagedelivery.net
 ||imgur.com
 ||instagram.com
