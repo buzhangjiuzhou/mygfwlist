@@ -4,9 +4,21 @@
 !
 
 !--often used by me-----
+||acast.com
 ||0rz.one
 ||1lib.cz
 ||1lib.education
+||ground.news
+||tradingview.com
+||skykiwi.com
+||govt.nz
+||cmegroup.com
+||isle.moe
+||gitee.io
+||moomoo.com
+||cdninstagram.com
+||threads.net
+||oaistatic.com
 ||1lib.limited
 ||1lib.net
 ||1lib.org
@@ -82,6 +94,13 @@
 ||chaoyu.us
 ||chinadigitaltimes.net
 ||chinagfw.org
+||chatgpt.com
+||1point3acres.com
+||interactivebrokers.com
+||ttvnw.net
+||redditspace.com
+||restofworld.org
+||goo.gl
 ||chrome.com
 ||chromium.org
 ||chun.moe
